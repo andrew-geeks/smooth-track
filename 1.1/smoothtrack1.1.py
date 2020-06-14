@@ -137,7 +137,7 @@ home=Tk()
 home.geometry('900x600')
 home.title('Home Page')
 home.configure(bg='SpringGreen2')
-home.iconbitmap('new.ico')
+#home.iconbitmap('new.ico')   #icon-can-be-found-in-folder
 #window-loc
 windowWidth = home.winfo_reqwidth()
 windowHeight = home.winfo_reqheight()
