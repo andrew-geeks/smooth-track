@@ -32,7 +32,7 @@ def fulltrack():
             destination_status=[]
             origin_time=[]
             origin_status=[]
-            driver=webdriver.Chrome('C:\Program Files (x86)\chromedriver.exe',options=options)
+            driver=webdriver.Chrome('PATH TO DRIVER',options=options)
             driver.get('https://t.17track.net/en#nums='+trknumber)
             time.sleep(7)
             driver.find_element_by_xpath('/html/body/div[6]/div/div[5]/a[1]').click()
