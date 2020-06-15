@@ -1,6 +1,7 @@
 Welcome to the 1.1 version of this software! This application helps to track your shipments in one place.
 Thanks to <https://www.17track.net/en> for data. Please update your chrome if needed and download the selenium chrome driver according to the chrome version number. 
 
+Note: after entering your tracking number please wait for 11 to 15 seconds to get the result!
 
 #Version 1.1
 In this version you can track your shipments from various carriers like DHL, FedEx, Aramex, UPS and many more....
