@@ -110,29 +110,6 @@ def fulltrack():
         except:
             return messagebox.showerror('Error','Could not track your package!')            
 
-
-
-def check():
-    driver=webdriver.Chrome('C:\Program Files (x86)\chromedriver.exe',options=options)
-    tknumber='452520484968' #tracking number
-    driver.get('https://t.17track.net/en#nums='+tknumber)
-    time.sleep(7)
-    driver.find_element_by_xpath('/html/body/div[6]/div/div[5]/a[1]').click()
-    time.sleep(2)
-    driver.find_element_by_xpath('//*[@id="tn-'+tknumber+'"]/div[2]/div[2]/div[2]/div/button').click()
-    driver.find_element_by_xpath('//*[@id="yq-modal-translate"]/div/div/div[2]/div[1]/div/div/a[1]').click()
-    time.sleep(2)
-    origin=driver.find_element_by_xpath('//*[@id="tn-'+tknumber+'"]/div[1]/div[2]/div[1]/div[2]/div/span').text
-    destination=driver.find_element_by_xpath('//*[@id="tn-'+tknumber+'"]/div[1]/div[2]/div[3]/div[2]/div/span').text
-    print('origin:',origin)
-    print('destination',destination)
-    status=driver.find_element_by_xpath('//*[@id="tn-'+tknumber+'"]/div[1]/div[1]/div/p[2]').text
-    print('status:',status)
-    fullreport=driver.find_element_by_xpath('//*[@id="tn-'+tknumber+'"]/div[2]/div[1]/dl[2]').text
-    print(fullreport)
-
-
-
 home=Tk()
 home.geometry('900x600')
 home.title('Home Page')
