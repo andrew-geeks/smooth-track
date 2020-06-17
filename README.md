@@ -5,6 +5,7 @@ Version by version release.
 Latest version: 1.2
 
 Libraries used: Selenium,Tkinter,sqlite.
+
 The application tracks shipments of almost all carriers like aramex,dhl,fedex,ups and many more...
 
 Created by Synite Solutions. <http://synitesolutions.ml>
