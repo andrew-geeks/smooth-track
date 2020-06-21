@@ -2,8 +2,8 @@
 Track all your shipments in one place! Application fully written in python(Tkinter).
 Version by version release.
 
-Latest version: 1.2
-
+Latest version: 2.0
+# Now with multiple tracking!!!
 Libraries used: Selenium,Tkinter,sqlite.
 
 The application tracks shipments of almost all carriers like aramex,dhl,fedex,ups and many more...
