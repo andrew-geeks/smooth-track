@@ -5,7 +5,8 @@ Version by version release.
 Latest version: 2.0
 # Now with multiple tracking!!!
 Chrome driver has been depreciated, therefore we have started using FireFox driver in version 2.1!
-Please have the latest update of FireFox
+Please have the latest update of FireFox!
+
 Libraries used: Selenium,Tkinter,sqlite.
 
 The application tracks shipments of almost all carriers like aramex,dhl,fedex,ups and many more...
