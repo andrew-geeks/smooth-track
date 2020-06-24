@@ -1,0 +1,14 @@
+Welcome to the 2.1 version of this software! This application helps to track your shipments in one place.
+Please note that this version works only with Firefox browser as chrome driver(headles--) has been depreciated!
+
+Thanks to 17 TRACK for data. Please update your Firefox browser to the latest version. Download all the files and run the smooth_track_v2.1.py file!
+
+Note: after entering your tracking number please wait for 11 to 15 seconds to get the result!
+
+# Version 2.1
+In this version you can track your shipments from various carriers like DHL, FedEx, Aramex, UPS and many more....
+1.Driver Change!
+2.Bug Fixes
+
+Hope you enjoy......other versions coming soon.
+Comment your suggestions....
