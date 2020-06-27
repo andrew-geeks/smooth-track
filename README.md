@@ -2,8 +2,8 @@
 Track all your shipments in one place! Application fully written in python(Tkinter).
 Version by version release.
 
-Latest version: 2.1
-# Now with multiple tracking!!!
+Latest version: 3.0
+# Now with multiple tracking & a new layout!!!
 Chrome driver has been depreciated, therefore we have started using FireFox driver in version 2.1!
 Please have the latest update of FireFox!
 
