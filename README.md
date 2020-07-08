@@ -11,7 +11,7 @@ Libraries used: Selenium,Tkinter,sqlite.
 
 The application tracks shipments of almost all carriers like aramex,dhl,fedex,ups and many more...
 
-Link for exe : <https://mega.nz/file/PJQATQTI#kF0ySC8uVx6bQDJ5L6WBI6RHi6fsjFhVYbspLAt9MoQ>
+Link for exe : <http://tiny.cc/smooth_track>
 
 Created by Synite Solutions. <http://synitesolutions.ml>
 
