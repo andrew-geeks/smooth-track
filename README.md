@@ -3,6 +3,7 @@ Track all your shipments in one place! Application fully written in python(Tkint
 Version by version release.
 
 Latest version: 3.2
+
 Series: 3
 # New API tracking inducted | Less time for tracking | Web tracking depreciated
 
