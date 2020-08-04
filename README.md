@@ -1,22 +1,27 @@
 # Smooth-Track
-Track all your shipments in one place! Application fully written in python(Tkinter).
+Track all your shipments in one place! Application fully written in python(Tkinter). Shipment tracking GUI!
 Version by version release.
 
-Latest version: 3.1
+Latest version: 3.2
 Series: 3
-# Now with multiple tracking & a new layout!!!
-Chrome driver has been depreciated, therefore we have started using FireFox driver in version 2.1!
-Please have the latest update of FireFox!
+# New API tracking inducted | Less time for tracking | Web tracking depreciated
 
-Libraries used: Selenium,Tkinter,sqlite.
+We have stopped using webdrivers, therefore from now own we will be using POST API!
 
-The application tracks shipments of almost all carriers like aramex,dhl,fedex,ups and many more...
+API : <https://rapidapi.com/>
 
-Link for exe : <http://tiny.cc/smooth_track>
+Libraries used: Requests,Json,Tkinter,sqlite.
+
+Carriers supported: DHL,UPS,FedEx,China Post, Singapore Post, Yanwen
+
+We will be supporting more carriers soon..as we are developing to track packages from more than 400 carriers.
+
+
+Link for exe : <http://tiny.cc/smooth_track> (v3.1)
 Use code: andrewgeeks 
 for 100% free download!!
 
-Created by Synite Solutions. <http://synitesolutions.ml>
+Created by Synite Solutions. <http://synitesolutions.ml> & Andrew George
 
 Follow on instagram: <https://www.instagram.com/synite_solutions> || <https://www.instagram.com/_andrewgeeks>
 
